@@ -1,0 +1,50 @@
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    background-color: gray;
+    color: white;
+
+}
+.bt1{
+    background-color: rgb(236, 185, 90);
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    
+    color: white;
+}
+.bt2{
+    background-color:rgb(148, 216, 243);
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    
+    color: white;
+}
+.row{
+    margin: 8px 0;
+    font-size: 20px;
+}
+.row1{
+    font-size: 4px;
+}
+.input{
+    font-size: 28px;
+    margin: 0px 5px;
+    padding: 25px 6px;
+    border-radius: 5px;
+
+}
+    
